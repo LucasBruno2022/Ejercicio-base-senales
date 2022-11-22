@@ -48,5 +48,6 @@ margin_right = 628.84
 margin_bottom = 246.115
 text = "Cantidad de Instancias:
 "
+
 [connection signal="button_down" from="RedGenerator" to="." method="_on_RedGenerator_button_down"]
 [connection signal="button_down" from="VioletGenerator" to="." method="_on_VioletGenerator_button_down"]
